@@ -1,0 +1,9 @@
+name: Train
+version: "1.0"
+author: Reecepbcups
+main: sh.reece.train.Main
+description: EVNT Train source
+api-version: 1.16
+
+commands:
+  train:
